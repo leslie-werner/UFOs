@@ -9,13 +9,16 @@ The purpose of this webpage was to view information on sightings of UFOs by buil
 In order for someone to use the search criteria, a few steps need to be taken. First, the user needs to know what information they would like to obtain. The options to filter are: date, city, state, country, and shape.
 
 Figure 1. Filter Search Options
+<img width="847" alt="figureOne" src="https://user-images.githubusercontent.com/65638310/156905300-e5626ac3-7717-4a2e-8abf-1646c8ea34b2.png">
 
 
 
 Next, the user needs to add the what filters they want to use. For example, Florida was used as well as the shape. 
 
 Figure 2. Adding Information To The Filter
+<img width="749" alt="figureTwo" src="https://user-images.githubusercontent.com/65638310/156905303-53cb1f3a-7c7f-4315-afbd-bca2dfe51515.png">
 
+Once the desired filters have been added, the user presses the enter tab. This will give the user the information based on the filter search choosen.
 
 
 ## Summary
