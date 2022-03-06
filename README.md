@@ -10,7 +10,14 @@ In order for someone to use the search criteria, a few steps need to be taken. F
 
 Figure 1. Filter Search Options
 
-Next, the user needs to add the what filters they want to use. For example, Florida was used as well as the shape
+
+
+Next, the user needs to add the what filters they want to use. For example, Florida was used as well as the shape. 
+
+Figure 2. Adding Information To The Filter
+
+
+
 ## Summary
 <!--describe 1 drawback of this new design and 2 recommendations for further developeme t -->
 A drawback by this design is that states can only be filtered by the abbreviation. This can be a problem if someone is not familiar with a certain states abbreviation. 
